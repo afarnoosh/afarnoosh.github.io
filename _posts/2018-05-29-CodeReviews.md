@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "Code Reviews in an Agile, Fast-Paced Environment"
+comments: true
 date:   2018-05-29
 ---
 *This is an x-post from Sokrati's engineering blog which can be found here: https://sokrati.com/engineering/*

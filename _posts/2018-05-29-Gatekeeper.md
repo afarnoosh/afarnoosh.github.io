@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "Gatekeepers and their Role in Healthy Software Development"
+comments: true
 date:   2018-05-29
 ---
 
